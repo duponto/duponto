@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @duponto
 - 👀 I’m interested in games(I'm above average on the ones I play :P) and interested in programming.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything I could help and get to know better py language
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me: discord (dudup#5321)
 
 <!---
