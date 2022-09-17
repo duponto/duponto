@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Gabriel Dupont Muenchen
+- 👋 Hi, I’m Gabriel Dupont
 - 👀 I’m interested in games(I'm above average on the ones I play :P) and interested in programming.
 - 📫 discord: dudup#5321 
