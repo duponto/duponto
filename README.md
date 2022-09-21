@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Gabriel Dupont
-- 👀 I’m interested in games(I'm actually good at most of them =p) and interested in programming.
 - 📫 discord: dudup#5321 
